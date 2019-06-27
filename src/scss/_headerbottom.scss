@@ -1,0 +1,20 @@
+.container_col{
+  padding: 40px;
+}
+
+tbody{
+  text-align: center;
+}
+
+a{
+  line-height: $height_80;
+  margin-left: 10px;
+  color: red;
+  font-style: oblique;
+  font-weight: bold;
+}
+
+a:hover{
+  color: #000;
+  text-decoration: none;
+}
